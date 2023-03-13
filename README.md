@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 -->
 
 <h1 align="center">Hi 👋, I'm Mücahit Dağlıoğlu</h1>
@@ -21,9 +25,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Mobile Development**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
